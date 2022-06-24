@@ -1,1 +1,1 @@
-## React To-do List (Add and Delete functionalities)
+## React Calculator (Complete working functionalities)
